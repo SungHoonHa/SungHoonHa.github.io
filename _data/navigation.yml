@@ -9,8 +9,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Life & Military"
+  - title: "Military Service"
+    url: /military/
+
+  - title: "Life"
     url: /life/
 
   - title: "CV"
-    url: /assets/cv.pdf  # 나중에 여기에 PDF 파일만 올리면 됩니다.
+    url: /assets/cv.pdf
